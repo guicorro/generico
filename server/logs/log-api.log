@@ -1,0 +1,341 @@
+[2019-12-14 11:28:55] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 11:28:55] info: Server running in http://localhost:8080
+[2019-12-14 11:29:08] error: GET / 404 5.052 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" - 250
+[2019-12-14 11:29:14] error: GET / 404 1.305 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 250
+[2019-12-14 11:29:14] error: GET /apple-touch-icon-precomposed.png 404 0.944 ms - "Safari/15608.4.9.1.3 CFNetwork/1121.1.2 Darwin/19.2.0 (x86_64)" - 250
+[2019-12-14 11:29:14] error: GET /apple-touch-icon.png 404 0.942 ms - "Safari/15608.4.9.1.3 CFNetwork/1121.1.2 Darwin/19.2.0 (x86_64)" - 250
+[2019-12-14 11:29:43] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 11:29:43] info: Server running in http://localhost:8080
+[2019-12-14 11:39:14] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 11:39:14] info: Server running in http://localhost:8080
+[2019-12-14 11:55:05] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 11:55:05] info: Server running in http://localhost:8080
+[2019-12-14 11:55:15] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 11:55:15] info: Server running in http://localhost:8080
+[2019-12-14 11:55:16] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 11:55:16] info: Server running in http://localhost:8080
+[2019-12-14 11:55:20] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 11:55:20] info: Server running in http://localhost:8080
+[2019-12-14 11:55:21] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 11:55:21] info: Server running in http://localhost:8080
+[2019-12-14 11:59:10] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 11:59:10] info: Server running in http://localhost:8080
+[2019-12-14 12:34:49] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:34:49] info: Server running in http://localhost:8080
+[2019-12-14 12:35:49] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:35:49] info: Server running in http://localhost:8080
+[2019-12-14 12:36:08] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:36:08] info: Server running in http://localhost:8080
+[2019-12-14 12:36:16] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:36:16] info: Server running in http://localhost:8080
+[2019-12-14 12:38:00] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:38:00] info: Server running in http://localhost:8080
+[2019-12-14 12:38:06] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:38:06] info: Server running in http://localhost:8080
+[2019-12-14 12:41:23] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:41:23] info: Server running in http://localhost:8080
+[2019-12-14 12:41:34] error: GET /user 404 6.868 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" - 250
+[2019-12-14 12:41:35] error: GET /user 404 1.213 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" - 250
+[2019-12-14 12:42:03] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:42:03] info: Server running in http://localhost:8080
+[2019-12-14 12:42:06] error: GET /user 404 3.557 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" - 143
+[2019-12-14 12:43:33] error: GET /user 404 0.727 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" - 143
+[2019-12-14 12:44:59] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:44:59] info: Server running in http://localhost:8080
+[2019-12-14 12:45:05] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:45:05] info: Server running in http://localhost:8080
+[2019-12-14 12:51:06] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:51:06] info: Server running in http://localhost:8080
+[2019-12-14 12:51:07] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:51:07] info: Server running in http://localhost:8080
+[2019-12-14 12:51:23] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:51:23] info: Server running in http://localhost:8080
+[2019-12-14 12:52:15] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 12:52:15] info: Server running in http://localhost:8080
+[2019-12-14 18:03:34] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 18:03:34] info: Server running in http://localhost:8080
+[2019-12-14 18:03:36] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 18:03:36] info: Server running in http://localhost:8080
+[2019-12-14 20:39:49] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:39:49] info: Server running in http://localhost:8080
+[2019-12-14 20:40:14] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:40:14] info: Server running in http://localhost:8080
+[2019-12-14 20:40:16] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:40:16] info: Server running in http://localhost:8080
+[2019-12-14 20:40:38] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:40:38] info: Server running in http://localhost:8080
+[2019-12-14 20:40:50] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:40:50] info: Server running in http://localhost:8080
+[2019-12-14 20:41:20] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:41:20] info: Server running in http://localhost:8080
+[2019-12-14 20:41:35] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:41:35] info: Server running in http://localhost:8080
+[2019-12-14 20:41:48] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:41:48] info: Server running in http://localhost:8080
+[2019-12-14 20:41:58] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:41:58] info: Server running in http://localhost:8080
+[2019-12-14 20:42:41] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:42:41] info: Server running in http://localhost:8080
+[2019-12-14 20:43:02] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:43:02] info: Server running in http://localhost:8080
+[2019-12-14 20:43:19] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:43:19] info: Server running in http://localhost:8080
+[2019-12-14 20:43:24] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:43:24] info: Server running in http://localhost:8080
+[2019-12-14 20:51:47] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:51:47] info: Server running in http://localhost:8080
+[2019-12-14 20:52:31] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:52:31] info: Server running in http://localhost:8080
+[2019-12-14 20:53:51] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:53:51] info: Server running in http://localhost:8080
+[2019-12-14 20:54:29] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:54:29] info: Server running in http://localhost:8080
+[2019-12-14 20:54:31] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:54:31] info: Server running in http://localhost:8080
+[2019-12-14 20:54:39] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:54:39] info: Server running in http://localhost:8080
+[2019-12-14 20:54:40] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:54:40] info: Server running in http://localhost:8080
+[2019-12-14 20:54:51] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:54:51] info: Server running in http://localhost:8080
+[2019-12-14 20:54:53] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:54:53] info: Server running in http://localhost:8080
+[2019-12-14 20:55:00] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:55:00] info: Server running in http://localhost:8080
+[2019-12-14 20:55:09] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:55:09] info: Server running in http://localhost:8080
+[2019-12-14 20:55:14] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:55:14] info: Server running in http://localhost:8080
+[2019-12-14 20:55:26] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:55:26] info: Server running in http://localhost:8080
+[2019-12-14 20:55:40] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:55:40] info: Server running in http://localhost:8080
+[2019-12-14 20:55:59] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:55:59] info: Server running in http://localhost:8080
+[2019-12-14 20:56:18] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:56:18] info: Server running in http://localhost:8080
+[2019-12-14 20:56:31] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:56:31] info: Server running in http://localhost:8080
+[2019-12-14 20:56:58] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:56:58] info: Server running in http://localhost:8080
+[2019-12-14 20:57:04] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:57:05] info: Server running in http://localhost:8080
+[2019-12-14 20:57:11] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:57:11] info: Server running in http://localhost:8080
+[2019-12-14 20:57:15] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:57:15] info: Server running in http://localhost:8080
+[2019-12-14 20:57:19] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:57:19] info: Server running in http://localhost:8080
+[2019-12-14 20:57:25] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:57:25] info: Server running in http://localhost:8080
+[2019-12-14 20:57:47] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:57:47] info: Server running in http://localhost:8080
+[2019-12-14 20:57:51] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:57:51] info: Server running in http://localhost:8080
+[2019-12-14 20:57:53] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:57:53] info: Server running in http://localhost:8080
+[2019-12-14 20:57:59] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:57:59] info: Server running in http://localhost:8080
+[2019-12-14 20:58:01] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:58:02] info: Server running in http://localhost:8080
+[2019-12-14 20:58:04] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:58:04] info: Server running in http://localhost:8080
+[2019-12-14 20:58:07] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:58:07] info: Server running in http://localhost:8080
+[2019-12-14 20:58:11] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:58:11] info: Server running in http://localhost:8080
+[2019-12-14 20:58:13] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:58:13] info: Server running in http://localhost:8080
+[2019-12-14 20:58:14] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:58:14] info: Server running in http://localhost:8080
+[2019-12-14 20:58:50] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:58:50] info: Server running in http://localhost:8080
+[2019-12-14 20:58:55] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 20:58:55] info: Server running in http://localhost:8080
+[2019-12-14 21:08:33] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 21:08:33] info: Server running in http://localhost:8080
+[2019-12-14 21:09:37] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 21:09:37] info: Server running in http://localhost:8080
+[2019-12-14 21:12:28] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 21:12:28] info: Server running in http://localhost:8080
+[2019-12-14 21:14:06] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 21:14:06] info: Server running in http://localhost:8080
+[2019-12-14 21:14:07] info: Conected to mongodb://localhost:27017/generico
+[2019-12-14 21:14:07] info: Server running in http://localhost:8080
+[2019-12-15 12:12:17] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:12:17] info: Server running in http://localhost:8080
+[2019-12-15 12:12:20] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:12:20] info: Server running in http://localhost:8080
+[2019-12-15 12:12:32] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:12:32] info: Server running in http://localhost:8080
+[2019-12-15 12:12:39] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:12:39] info: Server running in http://localhost:8080
+[2019-12-15 12:12:55] error: GET / 404 4.596 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 139
+[2019-12-15 12:13:03] error: GET / 404 0.703 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 139
+[2019-12-15 12:13:06] error: GET /user 404 0.472 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 143
+[2019-12-15 12:13:21] error: GET /User 404 0.334 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 143
+[2019-12-15 12:19:08] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:19:08] info: Server running in http://localhost:8080
+[2019-12-15 12:29:27] info: api.use(/user, new UserController().route())
+[2019-12-15 12:29:47] info: api.use(/user, new UserController().route())
+[2019-12-15 12:29:52] info: api.use(/user, new UserController().route())
+[2019-12-15 12:30:08] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:30:08] info: Server running in http://localhost:8080
+[2019-12-15 12:30:10] info: api.use(/user, new UserController().route())
+[2019-12-15 12:30:20] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:30:20] info: Server running in http://localhost:8080
+[2019-12-15 12:30:22] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:30:22] info: Server running in http://localhost:8080
+[2019-12-15 12:30:25] info: api.use(/user, new UserController().route())
+[2019-12-15 12:30:25] error: GET /User 500 3.997 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 2209
+[2019-12-15 12:56:18] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:56:18] info: Server running in http://localhost:8080
+[2019-12-15 12:56:31] info: api.use(/user, new UserController().route())
+[2019-12-15 12:56:31] error: GET /User 500 4.385 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 2209
+[2019-12-15 12:56:51] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:56:51] info: Server running in http://localhost:8080
+[2019-12-15 12:56:54] info: api.use(/user, new UserController().route())
+[2019-12-15 12:57:14] info: GET /User - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 12:57:14] info: api.use(/user, new UserController().route())
+[2019-12-15 12:57:29] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:57:29] info: Server running in http://localhost:8080
+[2019-12-15 12:57:33] info: api.use(/user, new UserController().route())
+[2019-12-15 12:58:04] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:58:04] info: Server running in http://localhost:8080
+[2019-12-15 12:58:15] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:58:15] info: Server running in http://localhost:8080
+[2019-12-15 12:58:25] info: GET /User - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 12:58:26] info: GET /user - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 12:59:32] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:59:32] info: Server running in http://localhost:8080
+[2019-12-15 12:59:59] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 12:59:59] info: Server running in http://localhost:8080
+[2019-12-15 13:00:32] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:00:32] info: Server running in http://localhost:8080
+[2019-12-15 13:00:34] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:00:34] info: Server running in http://localhost:8080
+[2019-12-15 13:00:58] info: GET /user - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 13:01:11] info: GET /api/user - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 13:01:19] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:01:19] info: Server running in http://localhost:8080
+[2019-12-15 13:02:35] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:02:35] info: Server running in http://localhost:8080
+[2019-12-15 13:07:00] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:07:00] info: Server running in http://localhost:8080
+[2019-12-15 13:07:29] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:07:29] info: Server running in http://localhost:8080
+[2019-12-15 13:08:02] info: GET /user - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 13:25:29] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:25:29] info: Server running in http://localhost:8080
+[2019-12-15 13:25:42] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:25:42] info: Server running in http://localhost:8080
+[2019-12-15 13:26:20] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:26:20] info: Server running in http://localhost:8080
+[2019-12-15 13:26:39] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:26:39] info: Server running in http://localhost:8080
+[2019-12-15 13:26:40] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:26:40] info: Server running in http://localhost:8080
+[2019-12-15 13:26:51] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:26:51] info: Server running in http://localhost:8080
+[2019-12-15 13:27:01] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:27:01] info: Server running in http://localhost:8080
+[2019-12-15 13:27:34] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:27:34] info: Server running in http://localhost:8080
+[2019-12-15 13:27:57] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:27:57] info: Server running in http://localhost:8080
+[2019-12-15 13:28:09] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:28:09] info: Server running in http://localhost:8080
+[2019-12-15 13:28:38] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:28:38] info: Server running in http://localhost:8080
+[2019-12-15 13:29:14] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:29:14] info: Server running in http://localhost:8080
+[2019-12-15 13:30:01] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:30:01] info: Server running in http://localhost:8080
+[2019-12-15 13:32:03] info: GET /user - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 13:34:03] info: GET /user - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 13:36:03] info: GET /user - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 13:38:38] info: GET /user - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 13:40:38] info: GET /user - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 13:42:38] info: GET /user - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 13:54:03] info: GET /user - - ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - -
+[2019-12-15 13:55:50] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:55:50] info: Server running in http://localhost:8080
+[2019-12-15 13:56:52] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:56:52] info: Server running in http://localhost:8080
+[2019-12-15 13:57:37] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:57:37] info: Server running in http://localhost:8080
+[2019-12-15 13:59:04] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:59:04] info: Server running in http://localhost:8080
+[2019-12-15 13:59:13] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:59:13] info: Server running in http://localhost:8080
+[2019-12-15 13:59:17] error: GET /user 500 9.406 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 2289
+[2019-12-15 13:59:25] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:59:25] info: Server running in http://localhost:8080
+[2019-12-15 13:59:38] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:59:38] info: Server running in http://localhost:8080
+[2019-12-15 13:59:48] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:59:48] info: Server running in http://localhost:8080
+[2019-12-15 13:59:56] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 13:59:56] info: Server running in http://localhost:8080
+[2019-12-15 14:00:05] error: GET /user 500 8.527 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 2289
+[2019-12-15 14:00:31] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:00:31] info: Server running in http://localhost:8080
+[2019-12-15 14:00:33] error: GET /user 500 10.400 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 2289
+[2019-12-15 14:00:43] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:00:43] info: Server running in http://localhost:8080
+[2019-12-15 14:00:45] error: GET /user 500 9.486 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 2289
+[2019-12-15 14:00:57] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:00:57] info: Server running in http://localhost:8080
+[2019-12-15 14:01:15] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:01:15] info: Server running in http://localhost:8080
+[2019-12-15 14:01:16] error: GET /user 500 12.267 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 2289
+[2019-12-15 14:02:12] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:02:12] info: Server running in http://localhost:8080
+[2019-12-15 14:02:18] error: GET /user 500 9.137 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 2289
+[2019-12-15 14:03:23] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:03:23] info: Server running in http://localhost:8080
+[2019-12-15 14:03:51] error: GET /user 500 10.426 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 2289
+[2019-12-15 14:04:55] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:04:55] info: Server running in http://localhost:8080
+[2019-12-15 14:04:58] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:04:58] info: Server running in http://localhost:8080
+[2019-12-15 14:05:03] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:05:03] info: Server running in http://localhost:8080
+[2019-12-15 14:05:04] error: GET /user 500 9.682 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 2292
+[2019-12-15 14:05:24] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:05:24] info: Server running in http://localhost:8080
+[2019-12-15 14:05:27] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:05:27] info: Server running in http://localhost:8080
+[2019-12-15 14:05:28] info: GET /user 200 15.841 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 12
+[2019-12-15 14:06:11] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:06:11] info: Server running in http://localhost:8080
+[2019-12-15 14:06:24] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:06:24] info: Server running in http://localhost:8080
+[2019-12-15 14:06:31] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:06:31] info: Server running in http://localhost:8080
+[2019-12-15 14:06:33] info: GET /user 200 14.243 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 12
+[2019-12-15 14:09:05] info: GET /user 200 10.201 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 80
+[2019-12-15 14:09:18] info: GET /user 200 2.251 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 80
+[2019-12-15 14:09:27] info: GET /user/5df63069397f384795c46654 200 4.265 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 77
+[2019-12-15 14:09:27] error: GET /favicon.ico 404 1.642 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 150
+[2019-12-15 14:09:53] error: GET /user/_id?=5df63069397f384795c46654 404 1.998 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 9
+[2019-12-15 14:09:53] error: GET /favicon.ico 404 0.464 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 150
+[2019-12-15 14:10:04] info: GET /user?_id=5df63069397f384795c46654 200 1.787 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 80
+[2019-12-15 14:10:04] error: GET /favicon.ico 404 0.268 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 150
+[2019-12-15 14:10:05] info: GET /user?_id=5df63069397f384795c46654 200 1.876 ms - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" - 80
+[2019-12-15 14:14:06] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:14:06] info: Server running in http://localhost:8080
+[2019-12-15 14:25:12] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:25:12] info: Server running in http://localhost:8080
+[2019-12-15 14:26:32] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:26:32] info: Server running in http://localhost:8080
+[2019-12-15 14:26:35] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:26:35] info: Server running in http://localhost:8080
+[2019-12-15 14:26:55] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:26:55] info: Server running in http://localhost:8080
+[2019-12-15 14:27:02] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:27:02] info: Server running in http://localhost:8080
+[2019-12-15 14:27:47] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:27:47] info: Server running in http://localhost:8080
+[2019-12-15 14:27:52] info: Conected to mongodb://localhost:27017/generico
+[2019-12-15 14:27:52] info: Server running in http://localhost:8080
