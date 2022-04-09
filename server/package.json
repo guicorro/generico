@@ -18,7 +18,7 @@
     "express-status-monitor": "^1.2.7",
     "generate-schema": "^2.6.0",
     "jwt-simple": "^0.5.5",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "mongoose": "^5.3.12",
     "mongoose-gen": "^2.1.1",
     "mongoose-pagination": "^1.0.0",
